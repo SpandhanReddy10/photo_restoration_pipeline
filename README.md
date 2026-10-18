@@ -49,9 +49,9 @@ python run_pipeline.py
 The pipeline significantly improves PSNR and SSIM metrics compared to frame-wise processing, while ensuring temporal consistency is not an issue for static photographs.
 
 ## Reference
-Wang, X., et al. (2021). Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data. ICCV.
-Antic, J. (2019). DeOldify: A deep learning based project for colorizing and restoring old images and videos.
-Wan, Z., et al. (2022). Bringing Old Films Back to Life. CVPR.
+- Wang, X., et al. (2021). Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data. ICCV.
+- Antic, J. (2019). DeOldify: A deep learning based project for colorizing and restoring old images and videos.
+- Wan, Z., et al. (2022). Bringing Old Films Back to Life. CVPR.
 
 ## Project Author
 Spandhan Reddy
