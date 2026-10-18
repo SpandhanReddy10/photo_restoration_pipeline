@@ -1,0 +1,18 @@
+# Ignore model weights
+weights/
+models/
+*.pth
+
+# Ignore the cloned repositories (people can clone them themselves)
+Real-ESRGAN/
+DeOldify/
+
+# Ignore the images (you can add a few small examples later if you want)
+input_photos/
+upscaled_photos/
+colorized_photos/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+venv/

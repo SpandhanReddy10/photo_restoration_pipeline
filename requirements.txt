@@ -1,0 +1,11 @@
+torch==2.5.1
+torchvision==0.20.1
+basicsr
+facexlib
+gfpgan
+realesrgan
+opencv-python
+pillow
+matplotlib
+numpy
+setuptools<81
